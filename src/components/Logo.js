@@ -1,7 +1,7 @@
 export default function Logo() {
   return (
     <div>
-      <h1>🌴 Far Away 💼</h1>
+      <h3>🌴 Far Away 💼</h3>
     </div>
   );
 }
